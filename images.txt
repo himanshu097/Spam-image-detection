@@ -4,5 +4,7 @@ dog
 cat
 chicken
 
+duck 
+cow
 
 Thank u
