@@ -4,7 +4,11 @@ dog
 cat
 chicken
 
+duck 
+cow
 
 Thank u
+
+Done my changes
 
 final copy
